@@ -1,11 +1,12 @@
 #include "main.h"
 
 /**
- * rot13 - encodes a string into rot13
+ * rot13 - to encode a string into rot13
  * @s: string to encode
- *
+ * written by cod-emminex
  * Return: address of s
  */
+
 char *rot13(char *s)
 {
 	int i, j;

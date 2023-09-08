@@ -3,9 +3,10 @@
 /**
  * leet - encodes a string into 1337
  * @s: string to encode
- *
+ * written by cod-emminex
  * Return: address of s
  */
+
 char *leet(char *s)
 {
 	int i, j;

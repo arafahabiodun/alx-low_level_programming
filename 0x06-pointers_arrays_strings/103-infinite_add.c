@@ -1,11 +1,12 @@
 #include "main.h"
 
 /**
- * infinite_add - adds two numbers
+ * infinite_add - to add two numbers
  * @n1: first number
  * @n2: second number
  * @r: buffer for result
  * @size_r: buffer size
+ * written by cod-emminex
  * Return: address of r or 0
  */
 char *infinite_add(char *n1, char *n2, char *r, int size_r)
@@ -44,4 +45,3 @@ char *infinite_add(char *n1, char *n2, char *r, int size_r)
 	}
 	return (r);
 }
-/*Bwave */

@@ -1,10 +1,13 @@
 #include "main.h"
+
 /**
  * reverse_array - reverse array
- * @a:array
- * @n:integer
+ * @a: array
+ * @n: integer
+ * written by cod-emminex
  * Return:void
  */
+
 void reverse_array(int *a, int n)
 {
 int i, c;
